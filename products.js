@@ -40,7 +40,7 @@ products.forEach(product => {
     <p>Price: ${product.price}</p>
     <a
       class="order-button"
-      href="https://wa.me/7008697514?text=Hi%20I%20want%20to%20order%20${encodeURIComponent(product.name)}%20from%20Sangini%20Kurtis"
+      href="https://wa.me/7991183180?text=Hi%20I%20want%20to%20order%20${encodeURIComponent(product.name)}%20from%20Sangini%20Kurtis"
       target="_blank"
     >Order on WhatsApp</a>
   `;
